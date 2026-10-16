@@ -1,0 +1,10 @@
+SYNTHETIC HACKATHON DEMO - NOT A REAL PRESCRIPTION
+AAROGYASAATHI DEMONSTRATION CLINIC
+INCOMPLETE PRESCRIPTION
+Fictional patient: Sample Patient
+Document date: 14 October 2026
+Fictional medication names for demonstration only.
+
+DemoMed B: twice daily. Dose and duration unclear.
+Bring this prescription to your next clinic visit.
+Follow-up date: unclear.

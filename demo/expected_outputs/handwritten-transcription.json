@@ -1,0 +1,9 @@
+{
+  "text": "Demo Clinic - Sample Patient\n14 October 2026\nDemoMed C: [unreadable] tablet once daily.\nDuration: [unreadable].\nBring this prescription to your next clinic visit.\nFollow-up date: [unreadable].",
+  "unreadable_regions": [
+    "Medicine dose, duration and follow-up date"
+  ],
+  "warnings": [
+    "Simulated handwriting contains unreadable fields."
+  ]
+}

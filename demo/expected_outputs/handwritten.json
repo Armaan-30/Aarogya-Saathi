@@ -1,0 +1,39 @@
+{
+  "document_type": "Synthetic handwritten prescription",
+  "summary": "Some prescription details cannot be read. Ask your healthcare professional to clarify them before acting.",
+  "items": [
+    {
+      "id": "med-1",
+      "kind": "medicine",
+      "title": "DemoMed C",
+      "wording": "DemoMed C: [unreadable] tablet once daily.",
+      "source": "DemoMed C: [unreadable] tablet once daily.",
+      "frequency": "once daily",
+      "uncertain": true,
+      "concerns": [
+        "Dose and duration cannot be read."
+      ]
+    },
+    {
+      "id": "care-1",
+      "kind": "instruction",
+      "title": "Bring the prescription",
+      "wording": "Bring this prescription to your next clinic visit.",
+      "source": "Bring this prescription to your next clinic visit."
+    },
+    {
+      "id": "visit-1",
+      "kind": "follow_up",
+      "title": "Follow-up needs clarification",
+      "wording": "Follow-up date: [unreadable].",
+      "source": "Follow-up date: [unreadable].",
+      "uncertain": true,
+      "concerns": [
+        "Follow-up date cannot be read."
+      ]
+    }
+  ],
+  "uncertainties": [
+    "Simulated handwriting contains unreadable fields."
+  ]
+}

@@ -1,0 +1,12 @@
+SYNTHETIC HACKATHON DEMO - NOT A REAL PRESCRIPTION
+AAROGYASAATHI DEMONSTRATION CLINIC
+CLEAR DISCHARGE SUMMARY
+Fictional patient: Sample Patient
+Document date: 14 October 2026
+Fictional medication names for demonstration only.
+
+DemoMed A: 1 tablet once daily at 08:00 after breakfast for 3 days.
+Keep the dressing clean and dry.
+Rest at home for 2 days. Avoid heavy lifting for 7 days.
+Return to the outpatient clinic on 22 October 2026 at 10:00. Bring this summary.
+Contact the clinic if the dressing becomes soaked or redness increases.

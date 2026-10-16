@@ -1,0 +1,9 @@
+{
+  "text": "Demo Clinic - Sample Patient\n14 October 2026\n[unreadable]",
+  "unreadable_regions": [
+    "Lower half of prescription"
+  ],
+  "warnings": [
+    "Heavy blur prevents reliable reading of the prescription."
+  ]
+}

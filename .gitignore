@@ -1,0 +1,13 @@
+.env
+frontend/.auth/
+backend/aarogya-playwright.db
+.venv/
+node_modules/
+dist/
+__pycache__/
+.pytest_cache/
+*.db
+*.db-*
+*.log
+test-results/
+playwright-report/

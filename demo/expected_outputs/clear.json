@@ -1,0 +1,48 @@
+{
+  "document_type": "Clear discharge summary",
+  "summary": "Your document describes dressing care, rest, a fictional medicine and a clinic follow-up. Review each instruction against the original before creating your checklist.",
+  "items": [
+    {
+      "id": "med-1",
+      "kind": "medicine",
+      "title": "DemoMed A",
+      "wording": "DemoMed A: 1 tablet once daily at 08:00 after breakfast for 3 days.",
+      "source": "DemoMed A: 1 tablet once daily at 08:00 after breakfast for 3 days.",
+      "dosage": "1 tablet",
+      "frequency": "once daily",
+      "duration": "for 3 days",
+      "timing": "08:00"
+    },
+    {
+      "id": "care-1",
+      "kind": "instruction",
+      "title": "Keep the dressing dry",
+      "wording": "Keep the dressing clean and dry.",
+      "source": "Keep the dressing clean and dry."
+    },
+    {
+      "id": "care-2",
+      "kind": "instruction",
+      "title": "Rest at home",
+      "wording": "Rest at home for 2 days. Avoid heavy lifting for 7 days.",
+      "source": "Rest at home for 2 days. Avoid heavy lifting for 7 days."
+    },
+    {
+      "id": "visit-1",
+      "kind": "follow_up",
+      "title": "Follow-up appointment",
+      "wording": "Return to the outpatient clinic on 22 October 2026 at 10:00. Bring this summary.",
+      "source": "Return to the outpatient clinic on 22 October 2026 at 10:00. Bring this summary.",
+      "date": "22 October 2026",
+      "timing": "10:00"
+    },
+    {
+      "id": "warn-1",
+      "kind": "warning",
+      "title": "When to contact the clinic",
+      "wording": "Contact the clinic if the dressing becomes soaked or redness increases.",
+      "source": "Contact the clinic if the dressing becomes soaked or redness increases."
+    }
+  ],
+  "uncertainties": []
+}

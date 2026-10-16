@@ -1,0 +1,39 @@
+{
+  "document_type": "Incomplete prescription",
+  "summary": "Some prescription details are missing. Ask your healthcare professional to clarify the medicine dose, duration and follow-up date.",
+  "items": [
+    {
+      "id": "med-1",
+      "kind": "medicine",
+      "title": "DemoMed B",
+      "wording": "DemoMed B: twice daily. Dose and duration unclear.",
+      "source": "DemoMed B: twice daily. Dose and duration unclear.",
+      "frequency": "twice daily",
+      "uncertain": true,
+      "concerns": [
+        "Dose and duration are missing. Ask the prescribing professional."
+      ]
+    },
+    {
+      "id": "care-1",
+      "kind": "instruction",
+      "title": "Bring the prescription",
+      "wording": "Bring this prescription to your next clinic visit.",
+      "source": "Bring this prescription to your next clinic visit."
+    },
+    {
+      "id": "visit-1",
+      "kind": "follow_up",
+      "title": "Follow-up needs clarification",
+      "wording": "Follow-up date: unclear.",
+      "source": "Follow-up date: unclear.",
+      "uncertain": true,
+      "concerns": [
+        "Follow-up date is not readable."
+      ]
+    }
+  ],
+  "uncertainties": [
+    "Missing medicine details and follow-up date require professional clarification."
+  ]
+}
